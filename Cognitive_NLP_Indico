@@ -16,8 +16,8 @@
     "import seaborn as sns\n",
     "import indicoio\n",
     "from scipy import stats\n",
-    "quandl.ApiConfig.api_key = 'dVqeyj_yKLwSMBvLrqsq'\n",
-    "indicoio.config.api_key = '821fa44e8f20ee7224679adb3e939dd3'\n",
+    "quandl.ApiConfig.api_key = 'API TOEKN",
+    "indicoio.config.api_key = 'API TOKEN",
     "from pylab import savefig"
    ]
   },
